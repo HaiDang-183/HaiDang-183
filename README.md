@@ -6,3 +6,6 @@
 </p>
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Moriarty178&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=Moriarty178&theme=radical&no-frame=false&no-bg=false&margin-w=4)
